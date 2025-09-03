@@ -19,6 +19,10 @@ Application & Deployment: Flask/FastAPI
 
 Phase 0: Foundation & Setup (Week 1)
 Phase 0 Objective: Set up your development environment and project structure.
+- 0.1: Create Github Repository for this project
+- 0.2: Set up local environment (Anaconda GUI)
+- 0.3: Plan Project Structure
+- 0.4: Initialize Version Control
 
 Phase 1: Data Acquisition & Understanding (Week 1-2)
 Phase 1 Objective: Secure a dataset and perform initial exploratory data analysis (EDA).
